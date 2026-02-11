@@ -15,3 +15,11 @@ Writing a python program that does the following:
     <br>
 3.Showing the results of each operation on the screen.
 <br>
+#Task 2:Creating a Personalized Greeting
+writing a python program that:
+<br>
+1.Takes a user's first name and the last name as input.
+<br>
+2.Concatenates the first name and last name into a full name.
+<br>
+3.Print a personalized greeting message using the full name.
