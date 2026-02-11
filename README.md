@@ -15,7 +15,7 @@ Writing a python program that does the following:
     <br>
 3.Showing the results of each operation on the screen.
 <br>
-#Task 2:Creating a Personalized Greeting
+<title>#Task 2:Creating a Personalized Greeting</title>
 writing a python program that:
 <br>
 1.Takes a user's first name and the last name as input.
